@@ -1,2 +1,7 @@
-# sistema_gerenciamento_funcionarios
-Este é um código simples em Java que fiz para praticar Programação Orientada a Objetos (POO). O programa cria um funcionário com algumas informações básicas e mostra esses dados no console.
+Repositório de Estudos em Java - Curso VR Software
+
+Este repositório reúne os projetos e exercícios que venho desenvolvendo ao longo do meu curso de programação em Java. O objetivo é registrar minha evolução, praticar conceitos importantes da linguagem e compartilhar meu aprendizado.
+
+O curso está sendo realizado pela empresa VR Software, onde tenho a oportunidade de aprofundar conhecimentos em lógica de programação, orientação a objetos e boas práticas de desenvolvimento.
+
+Sinta-se à vontade para explorar os projetos!
